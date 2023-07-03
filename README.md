@@ -1,1 +1,1 @@
-# student-mangment-student
+# student-mangment-system
